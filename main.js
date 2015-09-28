@@ -60,8 +60,8 @@ var instructorName;
 
 // Update the variables above so the expression reads correctly.
 // Answers Below:
-var yourName = "Sarah";
-var instructorName = "JD";
+yourName = "Sarah";
+instructorName = "JD";
 
 
 // Final Statement
